@@ -41,6 +41,6 @@ end
  
 RunService:BindToRenderStep("Control", Enum.RenderPriority.Input.Value, onUpdate)
  
-ContextActionService:BindAction("Left", onLeft, true, "a", Enum.KeyCode.Left, Enum.KeyCode.DPadLeft)
-ContextActionService:BindAction("Right", onRight, true, "d", Enum.KeyCode.Right, Enum.KeyCode.DPadRight)
-ContextActionService:BindAction("Jump", onJump, true, "w", Enum.KeyCode.Space, Enum.KeyCode.Up, Enum.KeyCode.DPadUp, Enum.KeyCode.ButtonA)
+ContextActionService:BindAction("Left", onLeft, true, Enum.KeyCode.A, Enum.KeyCode.Left, Enum.KeyCode.DPadLeft)
+ContextActionService:BindAction("Right", onRight, true, Enum.KeyCode.D, Enum.KeyCode.Right, Enum.KeyCode.DPadRight)
+ContextActionService:BindAction("Jump", onJump, true, Enum.KeyCode.Space, Enum.KeyCode.Up, Enum.KeyCode.DPadUp, Enum.KeyCode.ButtonA)
