@@ -11,10 +11,8 @@ The clothes are handpicked by a friend from open-sourced data storage from 2018 
 ```
 
 ### Game Link:
-```
 The game will be live and updated at:
 https://www.roblox.com/games/6257866217/
-```
 
 ### Game Pictures:
 <a href = "Showcase/showcase-1.png"><img src = "Showcase/showcase-1.png">
