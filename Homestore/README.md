@@ -17,7 +17,9 @@ https://www.roblox.com/games/6257866217/
 ```
 
 ### Game Pictures:
-<a href = ""><img src = "">
+<a href = "Showcase/showcase-1.png"><img src = "Showcase/showcase-1.png">
+<a href = "Showcase/showcase-2.png"><img src = "Showcase/showcase-2.png">
+<a href = "Showcase/showcase-3.png"><img src = "Showcase/showcase-3.png">
 
 ### Programmed Components:
 ```
