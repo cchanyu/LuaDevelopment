@@ -10,13 +10,11 @@ The level of difficulty will increase after every stage.
 ```
 
 ### Game Link:
-```
 The game will be live and updated at:
 https://www.roblox.com/games/2856472117
-```
 
 ### Game Pictures:
-<a href = ""><img src = "">
+<a href = "Showcase/showcase-1.png"><img src = "Showcase/showcase-1.png">
 
 ### Programmed Components:
 ```

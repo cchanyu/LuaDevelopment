@@ -9,10 +9,8 @@ The dance and level features will help users stay on longer.
 ```
 
 ### Game Link:
-```
 The game will be live and updated at:
 https://www.roblox.com/games/1520366972
-```
 
 ### Game Pictures:
 <a href = ""><img src = "">

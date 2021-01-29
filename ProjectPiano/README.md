@@ -9,10 +9,8 @@ The beautiful scenery will help the audience sync into the music while its playi
 ```
 
 ### Game Link:
-```
 The game will be live and updated at:
 https://www.roblox.com/games/5527931344
-```
 
 ### Game Pictures:
 <a href = ""><img src = "">
