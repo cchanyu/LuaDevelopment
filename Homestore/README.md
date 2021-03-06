@@ -1,4 +1,3 @@
-### Roblox User: KiIIerMachIne
 ### Project Name: Professional's Clothing Store
 
 ### Description: 

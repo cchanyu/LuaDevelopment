@@ -1,4 +1,3 @@
-### Roblox User: KiIIerMachIne
 ### Project Name: Obby in the Room
 
 ### Description: 

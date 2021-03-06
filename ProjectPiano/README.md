@@ -1,4 +1,3 @@
-### Roblox User: KiIIerMachIne
 ### Project Name: Project Piano
 
 ### Description: 
