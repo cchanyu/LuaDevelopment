@@ -1,0 +1,7 @@
+Data
+ClassName = RemoteEvent
+Name = SpecialSongCommunication
+Parent = ReplicatedStorage
+
+Behaviour
+Archivable = true
