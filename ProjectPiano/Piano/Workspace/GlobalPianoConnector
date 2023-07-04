@@ -1,7 +1,0 @@
-Data
-ClassName = RemoteEvent
-Name = GlobalPianoConnector
-Parent = Workspace
-
-Behaviour
-Archivable = true
